@@ -1,0 +1,158 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/E/M/1690475698_M1296ZZAU_M928_E01_ZHC.jpg?imwidth=1080",
+            "title":"DIOR BOOK TOTE 미디엄 백",
+            "price":"₩4,450,000",
+            "content": " Christian Dior의 크리에이티브 디렉터 마리아 그라치아 치우리가 첫선을 보인 이후 Dior 미학의 시그니처로 자리 잡은 Dior Book Tote 백입니다. 데일리 소지품을 모두 담을 수 있는 디자인이며, 베이지와 블루 컬러가 어우러진 매크로까나쥬 모티브의 전체 자수와 앞면의 Christian Dior Paris 시그니처 장식이 돋보입니다. 디올 하우스의 시그니처 노하우가 고스란히 담긴 미디엄 백으로 핸드백 또는 숄더백으로 스타일링하기 좋습니다.",
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":1,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/o/E/1693226722_354S16AM439_X6880_E01_ZHC.jpg?imwidth=1080",
+            "title":"파인 그린 Check'n'Dior 테크니컬 모헤어 알파카 니트",
+            "price":"₩3,100,000",
+            "content": "2023-2024 가을-겨울 패션쇼에서 선보인 것처럼 파인 그린 컬러의 Check'n'Dior 모티브가 돋보이는 스웨터입니다. 브러쉬드 테크니컬 모헤어 알파카 니트 소재로 제작되었으며, 웨이스트가 강조된 쇼트 실루엣, 볼륨감을 더하는 퍼프 슬리브가 특징입니다. 패션쇼의 무드를 반영하여 프린트 미디 스커트와 매치해 모던한 룩을 완성하기 좋습니다.",
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":2,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/M/S/1687798359_351V25A1166_X9000_E01_ZHC.jpg?imwidth=1080",
+            "title":"퍼프 슬리브 피티드 재킷",
+            "price":"₩5,800,000",
+            "content": "디올 하우스의 우아한 코드를 모던하게 해석한 재킷입니다. 블랙 컬러의 울 실크 소재로 제작되었으며, 핏감 있는 싱글 브레스트 실루엣과 퍼프 반소매가 특징입니다. 웨이스트를 강조하는 플랩 포켓으로 완성된 재킷으로 이번 컬렉션의 펜슬 스커트와 매치해 세련된 룩을 연출하기 좋습니다.",
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":3,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/a/s/1692863119_351R04A1212_X3577_E01_ZHC.jpg?imwidth=1080",
+            "title":"미디 뷔스티에 드레스",
+            "price":"₩17,000,000",
+            "content": "홀마크 Dior 실루엣으로, 디올 하우스의 우아하고 세련된 코드로 새롭게 해석한 미디 드레스입니다. 버건디 컬러의 울 실크 산퉁 소재로 제작되었으며, 우아한 코르셋 보디스와 플리츠가 특징입니다. 주얼리 슈즈와 매치해 세련된 룩을 연출하기 좋습니다.",
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":4,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/W/O/1694011516_045P45AL015_X9000_E01_ZHC.jpg?imwidth=1080e",
+            "title":"CD 버클 치마바지",
+            "price":"₩5,500,000" ,
+            "content": "모던하면서도 타임리스한 치마바지입니다. 블랙 컬러의 스무스 양가죽 소재로 제작되었으며, 웨이스트의 골드 피니시 CD 버클과 뒷면의 패치 포켓이 돋보이는 꽃부리 실루엣이 특징입니다. 단색 또는 패턴 블라우스와 함께 매치하기 좋습니다.",
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":5,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/3/w/1586461503_841V01A1166_X0200_E01_ZHC.jpg?imwidth=1080",
+            "title":"30 MONTAIGNE 바 재킷",
+            "price":"₩6,800,000",
+            "content": "1947년 크리스챤 디올이 첫선을 보인 New Look 컬렉션의 상징적인 아이템인 바 재킷입니다. 마리아 그라치아 치우리가 재해석한 이번 버전은 화이트 컬러의 경량 울 실크 블렌드 소재로 제작되었습니다. 노치 라펠과 웨이스트를 섬세하게 강조하는 웰트 포켓이 돋보입니다. 다양한 Dior 아이템에 매치해 우아하고 세련된 분위기를 연출하기 좋습니다.",
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":6,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/C/Z/1666352713_841V30A1166_X9000_E01_ZHC.jpg?imwidth=1080",
+            "title":"오프숄더 재킷",
+            "price":"₩6,300,000",
+            "content": "블랙 울 실크 더블 브레스트 디자인의 어깨가 드러나는 오프숄더 재킷입니다. 디올 하우스의 홀마크 디테일인 패브릭 커버 버튼이 웨이스트를 강조합니다. 다양한 Dior 아이템과 매치해 우아하고 세련된 룩을 연출하기 좋습니다.",
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":7,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/Y/T/1645019123_221V08A1166_X9000_E01_ZHC.jpg?imwidth=1080",
+            "title":"V08 DIOR 벨트 디테일 크롭 재킷",
+            "price":"₩6,700,000",
+            "content": "V08 재킷은 타임리스한 매력이 돋보이는 우아한 아이템입니다. 블랙 컬러의 경량 울 실크 소재로 제작됐으며, 노치 칼라의 숏 싱글 브레스트 실루엣과 웨이스트를 섬세하게 강조하는 CD 버클 톤온톤 벨트가 특징입니다. V08 재킷과 함께 이번 시즌 룩을 세련된 실루엣으로 연출할 수 있습니다.",
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":8,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_8/870x580/17f82f742ffe127f42dca9de82fb58b1/2/e/1683135227_244S15CP730_X8839_E08_ZHC.jpg?imwidth=1080",
+            "title":"DIORIVIERA CAPRI 반소매 스웨터",
+            "price":"₩2,000,000",
+            "content": "Dioriviera 캡슐 컬렉션 아이템으로, 그레이와 핑크 컬러가 어우러진 타임리스한 Dior 마리니에르 모티브 장식의 코튼 리브드 니트 스웨터입니다. 앞면에 장식된 디올 하우스의 별 심벌과 Christian Dior 시그니처, 뒷면의 Capri 레터링 장식이 돋보입니다. 라운드 네크라인으로 이루어진 반소매 스웨터로 다양한 Dioriviera 아이템과 매치해 스타일을 완성하기 좋습니다.",
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":9,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/l/z/1692863117_351R75A3881_X3839_E01_ZHC.jpg?imwidth=1080",
+            "title":"쇼트 플레어 셔츠 드레스",
+            "price":"₩6,200,000",
+            "content": "디올 하우스 아카이브의 카모플라쥬 패턴에 모던한 터치를 더한 Wildior 모티브의 셔츠 드레스입니다. 아이보리와 레드 컬러가 어우러진 코튼 실크 포플린 소재로 제작되었으며, 핏감 있는 웨이스트 아래로 펼쳐지는 플레어 실루엣과 스프레드 칼라가 특징입니다. 반소매로 완성된 드레스로 다양한 Wildior 아이템과 매치해 스타일을 완성하기 좋습니다.",
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":10,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_2/870x580/17f82f742ffe127f42dca9de82fb58b1/p/h/1688460315_KDI937CFM_S900_E02_ZHC.jpg?imwidth=1080",
+            "title":"DIOREBEL 부츠",
+            "price":"₩4,600,000",
+            "content": "2023 겨울 시즌에 새롭게 선보이는 아이템으로, 발키리로부터 영감을 받아 여성성의 모던한 코드를 재해석한 Diorebel 부츠입니다. 블랙 무광 송아지 가죽 소재로 제작되었으며 앞면의 슈레이스, 뒷면의 여러 실버 피니시 메탈 버클과 골드 톤 Christian Dior Paris 패치 장식이 특징입니다. 두툼한 노치 러버 솔로 볼드한 매력을 더한 슈즈로, 다양한 스포츠웨어 룩에 매치하기 좋습니다.",
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":11,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/4/Q/1649231113_M0505CMVO_M808_E01_ZHC.jpg?imwidth=1080",
+            "title":"LADY DIOR 미니 백",
+            "price":"₩6,900,000",
+            "content": "우아함과 아름다움에 대한 디올 하우스의 비전을 완벽하게 표현한 Lady Dior 백입니다. 세련되고 고급스러운 디자인의 타임리스한 백으로, 까나쥬 스티칭으로 장식한 앤틱 핑크 (올드 로즈) 컬러 양가죽 소재가 한눈에 알아볼 수 있는 퀼트 텍스처를 연출합니다. 페일 골드 피니시 메탈 소재의 D.I.O.R. 블록 참이 실루엣에 디테일과 화사한 분위기를 더합니다. 탈착식 체인 숄더 스트랩으로 구성된 미니어처 백으로 핸드백이나 크로스백으로 이브닝 웨어에 매치하기 좋습니다.",
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":12,
+            "img":"https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/H/u/1688402860_M0505JERA_M31E_E01_ZHC.jpg?imwidth=1080",
+            "title":"LADY DIOR 미니 백",
+            "price":"₩11,000,000",
+            "content": "우아함과 아름다움에 대한 디올 하우스의 비전을 완벽하게 표현한 Lady Dior 백입니다. 세련되고 고급스러운 디자인의 타임리스한 백으로, 까나쥬 스티칭으로 장식한 앤틱 핑크 (올드 로즈) 컬러 양가죽 소재가 한눈에 알아볼 수 있는 퀼트 텍스처를 연출합니다. 페일 골드 피니시 메탈 소재의 D.I.O.R. 블록 참이 실루엣에 디테일과 화사한 분위기를 더합니다. 탈착식 체인 숄더 스트랩으로 구성된 미니어처 백으로 핸드백이나 크로스백으로 이브닝 웨어에 매치하기 좋습니다.",
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":13,
+            "img": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/L/s/1620042384_M0505OREJ_M971_E01_ZHC.jpg?imwidth=1080",
+            "title":"LADY DIOR 미니 백",
+            "price":"₩8,400,000",
+            "content": "우아함과 아름다움에 대한 디올 하우스의 비전을 완벽하게 표현한 Lady Dior 백입니다. 세련되고 고급스러운 디자인의 타임리스한 백으로, 까나쥬 스티칭으로 장식한 앤틱 핑크 (올드 로즈) 컬러 양가죽 소재가 한눈에 알아볼 수 있는 퀼트 텍스처를 연출합니다. 페일 골드 피니시 메탈 소재의 D.I.O.R. 블록 참이 실루엣에 디테일과 화사한 분위기를 더합니다. 탈착식 체인 숄더 스트랩으로 구성된 미니어처 백으로 핸드백이나 크로스백으로 이브닝 웨어에 매치하기 좋습니다.",
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"]
+
+        }
+    ]
+}
