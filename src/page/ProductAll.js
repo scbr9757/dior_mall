@@ -8,16 +8,19 @@ const ProductAll = () => {
     const [query, setQuery] =  useSearchParams()
     const getProducts  = async() => {
       
-        //let url = 'http://localhost:5000/products/'
+        //const url = 'http://localhost:5000/products/'
         //getProduct 함수를 통해서 API를 호출할 때에 쿼리에 있는 값을 넣어줌 
-        let searchQuery = query.get('q')||"";
+        searchQuery = 232432;
+        searchQuery = "asdfasdf";
+        var searchQuery = query.get('q')||"";
+        const searchQuery = query.get('s')||"";
         //로컬에 설치된 json-server로 데이터를 불러와서 보여주는 주소
-        let url = `http://localhost:5000/products?q=${searchQuery}`
+        const url = `http://localhost:5000/products?q=${searchQuery}`
 
         //my-json-server에서 자료를 가져오기
-        //let url = `https://my-json-server.typicode.com/scbr9757/dior_mall/products?q=${searchQuery} `
-        let response = await fetch(url);
-        let data = await response.json();
+        //const url = `https://my-json-server.typicode.com/scbr9757/dior_mall/products?q=${searchQuery} `
+        const response = await fetch(url);
+        const data = await response.json();
         //console.log(data)
         setProductList(data)
     }
